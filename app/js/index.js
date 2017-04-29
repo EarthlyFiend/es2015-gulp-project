@@ -1,1 +1,1 @@
-index.js
+import './class/lesson1';
