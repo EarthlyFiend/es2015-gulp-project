@@ -1,5 +1,5 @@
 'use strict';
-
+//数组。对象解构赋值
 {
   let a,b,rest;
   [a,b]=[1,2];
